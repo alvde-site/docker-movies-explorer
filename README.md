@@ -23,5 +23,7 @@
 
 ### Инструкция по развертыванию:
 * Установить Docker на компьютер и запусить: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
-* Клонировать проект: `git clone git@github.com:alvde-site/docker-movies-explorer.git``
-* Перейти в корневую директорию  `cd docker-movies-explorer` и запусить команду: `docker-compose up`
+* Клонировать проект: `git clone git@github.com:alvde-site/docker-movies-explorer.git`
+* Перейти в корневую директорию  `cd docker-movies-explorer` 
+* Запусить команду: `docker-compose up`
+* После того как завершиться запуск контейнера из образа в браузере нужно перейти по ссылки:  `http://localhost:3000`
