@@ -26,4 +26,4 @@
 * Клонировать проект: `git clone git@github.com:alvde-site/docker-movies-explorer.git`
 * Перейти в корневую директорию  `cd docker-movies-explorer` 
 * Запусить команду: `docker-compose up`
-* После того как завершиться запуск контейнера из образа в браузере нужно перейти по ссылки:  `http://localhost:3000`
+* После того как завершиться запуск контейнера из образа в браузере нужно перейти по ссылке:  [http://localhost:3000](http://localhost:3000)
