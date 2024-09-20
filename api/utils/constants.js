@@ -4,6 +4,7 @@ const options = { // Опции для cors
     'http://alvde-mesto.nomoredomains.sbs',
     'https://alvde-mesto.nomoredomains.sbs',
     'https://alvde-site.github.io',
+    'http://45.8.251.235:3000',
   ],
   credentials: true, // эта опция позволяет устанавливать куки
 };
